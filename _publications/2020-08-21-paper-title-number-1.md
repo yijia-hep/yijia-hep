@@ -13,4 +13,4 @@ paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 ---
 Published in [Nucl. Instrum. Methods Phys. Res., Sect. A 972, 164169 (2020)](https://doi.org/10.1016/j.nima.2020.164169)
 
-xxxxxxx test
+![Figure caption](../images/profile.png)
