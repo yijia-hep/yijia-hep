@@ -13,4 +13,6 @@ paperurl: 'http://yijia-hep.github.io/files/1-s2.0-S0168900220305659-main-2.pdf'
 ---
 Published in [Nucl. Instrum. Methods Phys. Res., Sect. A 972, 164169 (2020)](https://doi.org/10.1016/j.nima.2020.164169)
 
-![Figure caption](../images/profile.png)
+![Figure caption](../images/charge_improvement0.png)
+
+![Figure caption](../images/charge_improvement1.png)
