@@ -16,3 +16,5 @@ Published in [Nucl. Instrum. Methods Phys. Res., Sect. A 972, 164169 (2020)](htt
 ![Figure caption](../images/charge_improvement0.png)
 
 ![Figure caption](../images/charge_improvement1.png)
+
+![Figure caption](../images/charge_improvement2.png)
