@@ -3,11 +3,11 @@ layout: archive
 title: "Talks"
 permalink: /talks/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
+
+“Unique Properties of Daily Proton Fluxes by the Alpha Magnetic Spectrometer”, 45th Scientific Assembly of the Committee on Space Research (COSPAR), Busan, South Korea. July 14 2024
 
 Education
 ======
