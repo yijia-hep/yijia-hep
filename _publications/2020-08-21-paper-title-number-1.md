@@ -7,7 +7,7 @@ permalink: /publication/2020-08-21-paper-title-number-1
 #date: 2020-08-21
 #venue: 'Nucl. Instrum. Methods Phys. Res., Sect. A 972, 164169'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'http://yijia-hep.github.io/files/1-s2.0-S0168900220305659-main-2.pdf'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
