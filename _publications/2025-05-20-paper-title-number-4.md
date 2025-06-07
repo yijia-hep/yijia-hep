@@ -7,3 +7,5 @@ paperurl: 'http://yijia-hep.github.io/files/PhysRevLett.134.201001.pdf'
 ---
 Published in [Phys. Rev. Lett. 127, 271102 (2021)](https://doi.org/10.1103/PhysRevLett.127.271102) 
 
+![Figure caption](../images/lithium0.png)
+![Figure caption](../images/lithium1.png)
