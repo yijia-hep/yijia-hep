@@ -15,4 +15,4 @@ Previously, I worked on the [Alpha Magnetic Spectrometer](https://ams02.space/) 
 
 ## News
 
-* **May 25, 2026** My last work with AMS on the origin of lithium isotopes was featured in [APS Physics Magazine](https://physics.aps.org/articles/v18/s64)!
+* **May 20, 2025** My last work with AMS on the origin of lithium isotopes was featured in [APS Physics Magazine](https://physics.aps.org/articles/v18/s64)!
