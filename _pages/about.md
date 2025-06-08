@@ -13,6 +13,6 @@ Currently, I am an Associate Professor at the [Institute of High Energy Physics]
  
 Previously, I worked on the [Alpha Magnetic Spectrometer](https://ams02.space/) (AMS) aboard the International Space Station to study the origin of cosmic rays. During my time in Professor Samuel Ting’s group at the Massachusetts Institute of Technology, I participated in both detector development and physics analysis for the AMS experiment. My work contributed to several key advances: I developed [a new charge reconstruction method](https://doi.org/10.1016/j.nima.2020.164169) that improved the charge resolution of AMS by more than a factor of two, supporting the collaboration’s groundbreaking results in heavy cosmic ray nuclei. I led studies on the time evolution of cosmic rays, including crucial data analysis of protons and helium nuclei, which resulted in six AMS collaboration papers on solar physics (Physical Review Letters). I also led the analysis of the origin of lithium isotopes, which was published in Physical Review Letters and selected as an Editors’ Suggestion.
 
-News
-======
-* My last work with AMS on the [origin of lithium isotopes](https://physics.aps.org/articles/v18/s64) was featured in APS Physics Magazine!
+## News
+
+* **May 25, 2026** My last work with AMS on the [origin of lithium isotopes](https://physics.aps.org/articles/v18/s64) was featured in APS Physics Magazine!
