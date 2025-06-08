@@ -8,16 +8,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Massachusetts Institute of Technology, Cambridge, US, 2018
-* B.S. in Xi’an Jiaotong University, Xi’an, China, 2012
+## 8.02 Fall 2023 Electricity and Magnetism 
+* Undergraduate course at MIT 
 
-Work experience
-======
-* 2025-current: Associate Professor, IHEP
-
-* 2022-2025: Research Scientist, MIT 
-
-* 2018-2022: Postdoctoral Associate, MIT 
-  

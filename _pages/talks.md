@@ -8,7 +8,6 @@ author_profile: true
 {% include base_path %}
 
 ## Conferences
-======
 “Unique Properties of Daily Proton Fluxes by the Alpha Magnetic Spectrometer”, 45th Scientific Assembly of the Committee on Space Research (COSPAR), Busan, South Korea. July 14 2024
 
 “Precision Measurement of Daily Proton and Helium Fluxes by the Alpha Magnetic Spectrometer”, The 38th International Cosmic Ray Conference (ICRC2023), Nagoya, Japan. August 2 2023
@@ -30,8 +29,7 @@ author_profile: true
 “Observation of New Properties of Secondary Cosmic Rays Lithium, Beryllium, and Boron by the Alpha Magnetic Spectrometer on the International Space Station”, International Conference on High Energy Physics (ICHEP), Seoul, Korea. July 4 - 11 2018
 
 
-Invited Seminars and Talks
-======
+## Invited Seminars and Talks
 “Measurements of the Cosmic Ray Nuclei with the Alpha Magnetic Spectrometer (AMS)”, the Center for Nuclear Astrophysics across Messengers (CeNAM) Frontiers in Nuclear Astrophysics Meeting, Michigan State University, East Lansing. May 25 2023
 
 “Time variations of cosmic ray particles measured by AMS”, Space and Cosmic Ray Physics online Seminar at University of Maryland. October 17 2022

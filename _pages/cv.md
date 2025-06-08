@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Full CV can be found [here](http://yijia-hep.github.io/files/CV_YiJia.pdf).
+Full CV in pdf can be found [here](http://yijia-hep.github.io/files/CV_YiJia.pdf).
 
 Education
 ======
