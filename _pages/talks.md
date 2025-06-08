@@ -7,8 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-“Unique Properties of Daily Proton Fluxes by the Alpha Magnetic Spectrometer”, 45th Scientific Assembly of the Committee on Space Research (COSPAR), Busan, South Korea. July 14 2024
-
 Conferences
 ======
 “Unique Properties of Daily Proton Fluxes by the Alpha Magnetic Spectrometer”, 45th Scientific Assembly of the Committee on Space Research (COSPAR), Busan, South Korea. July 14 2024
@@ -32,11 +30,19 @@ Conferences
 “Observation of New Properties of Secondary Cosmic Rays Lithium, Beryllium, and Boron by the Alpha Magnetic Spectrometer on the International Space Station”, International Conference on High Energy Physics (ICHEP), Seoul, Korea. July 4 - 11 2018
 
 
-Work experience
+INVITED SEMINARS AND TALKS
 ======
-* 2025-current: Associate Professor, IHEP
+“Measurements of the Cosmic Ray Nuclei with the Alpha Magnetic Spectrometer (AMS)”, the Center for Nuclear Astrophysics across Messengers (CeNAM) Frontiers in Nuclear Astrophysics Meeting, Michigan State University, East Lansing. May 25 2023
 
-* 2022-2025: Research Scientist, MIT 
+“Time variations of cosmic ray particles measured by AMS”, Space and Cosmic Ray Physics online Seminar at University of Maryland. October 17 2022
 
-* 2018-2022: Postdoctoral Associate, MIT 
+“Latest Results from the Alpha Magnetic Spectrometer”, Center for Cosmology and Astroparticle Physics (CCAPP) seminar at Ohio State University, Columbus. October 4 2022
+
+“Unique Properties of Cosmic Rays: Results from the Alpha Magnetic Spectrometer”, 14th Conference on the Intersections of Particle and Nuclear Physics (CIPANP 2022), Lake Buena Vista, Florida, United States. September 2 2022
+
+“Latest Results from the Alpha Magnetic Spectrometer: Precision Measurements of Daily Proton and Helium Fluxes”, Laboratory for Nuclear Science Lunchtime Seminar, MIT. September 14 2021
+
+“Alpha Magnetic Spectrometer on the International Space Station”, Seminar at the experimental physics division, Institute of High Energy Physics (IHEP), Beijing, China. November 22 2019
+
+“Precision Measurement of Elementary Particle and Nuclei Fluxes in Cosmic Rays with AMS on the International Space Station”, Seminar at Princeton University. January 15 2019
   
