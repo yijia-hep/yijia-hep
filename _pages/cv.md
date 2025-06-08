@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Full CV can be found [here](http://yijia-hep.github.io/files/CV_YiJia.pdf).
+
 Education
 ======
 * Ph.D in Massachusetts Institute of Technology, Cambridge, US, 2018

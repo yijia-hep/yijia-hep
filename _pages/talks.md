@@ -30,7 +30,7 @@ author_profile: true
 “Observation of New Properties of Secondary Cosmic Rays Lithium, Beryllium, and Boron by the Alpha Magnetic Spectrometer on the International Space Station”, International Conference on High Energy Physics (ICHEP), Seoul, Korea. July 4 - 11 2018
 
 
-INVITED SEMINARS AND TALKS
+Invited Seminars and Talks
 ======
 “Measurements of the Cosmic Ray Nuclei with the Alpha Magnetic Spectrometer (AMS)”, the Center for Nuclear Astrophysics across Messengers (CeNAM) Frontiers in Nuclear Astrophysics Meeting, Michigan State University, East Lansing. May 25 2023
 
