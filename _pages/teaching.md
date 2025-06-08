@@ -1,0 +1,23 @@
+---
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+redirect_from:
+---
+
+{% include base_path %}
+
+Education
+======
+* Ph.D in Massachusetts Institute of Technology, Cambridge, US, 2018
+* B.S. in Xi’an Jiaotong University, Xi’an, China, 2012
+
+Work experience
+======
+* 2025-current: Associate Professor, IHEP
+
+* 2022-2025: Research Scientist, MIT 
+
+* 2018-2022: Postdoctoral Associate, MIT 
+  
