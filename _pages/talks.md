@@ -16,7 +16,7 @@ author_profile: true
 
 “Unique Properties of Daily Proton Fluxes up to 100 GV”, 44th Scientific Assembly of the Committee on Space Research (COSPAR), Athens, Greece. July 17 2022
 
-“Precision Measurement of Periodicities in the Daily Proton Fluxes with AMS”, The 37th International Cosmic Ray Conference (ICRC2021), Berlin, Germany. July 12 - 23 2021
+“Precision Measurement of Periodicities in the Daily Proton Fluxes with AMS”, The 37th International Cosmic Ray Conference (ICRC2021), Berlin, Germany. July 14 2021
 
 “Precision measurements of 3He-to-4He ratio and individual 3He and 4He fluxes in Cosmic Rays with the Alpha Magnetic Spectrometer on the International Space Station”, 43rd Scientific Assembly of the Committee on Space Research (COSPAR), Sydney, Australia. January 28 - February 4 2021
 
