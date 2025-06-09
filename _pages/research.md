@@ -8,7 +8,10 @@ redirect_from:
 
 {% include base_path %}
 
-## Jiangmen Underground Neutrino Observatory (developing..)
+## Jiangmen Underground Neutrino Observatory (JUNO)
+
+JUNO is a large-scale neutrino experiment located in Jiangmen, Guangdong Province, China. Its main design goal is to determine the neutrino mass ordering through precise measurements of reactor neutrino oscillations, while also probing new physics through the detection of supernova and solar neutrinos. The experiment is scheduled to begin data-taking in August 2025 and is expected to operate for approximately 30 years.
+
 * JUNO under construction in June 2023 
 
 <img src="../images/juno0.png" alt="Figure caption" style="width:450px;" />
@@ -25,7 +28,7 @@ redirect_from:
 
 <img src="../images/juno3.png" alt="Figure caption" style="width:750px;" />
 
-## Alpha Magnetic Spectrometer
+## Alpha Magnetic Spectrometer (AMS)
 
 AMS is a multi-purpose high-energy particle detector installed on the International Space Station on May 19, 2011 to conduct a unique long-term mission of fundamental physics research in space. The primary physics objectives of AMS include the precise studies of the origin of dark matter, antimatter, and cosmic rays as well as the exploration of new phenomena.
 
