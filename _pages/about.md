@@ -11,7 +11,7 @@ I am interested in the intersection of particle physics and astrophysics.
 
 Currently, I am an Associate Professor at the [Institute of High Energy Physics](http://english.ihep.cas.cn/) (IHEP), working on the [Jiangmen Underground Neutrino Observatory](https://juno.ihep.cas.cn/) (JUNO). I use neutrinos as messegers to probe supernova explosion and search for new physics. 
  
-Previously, I was a key member of the MIT group led by Professor Samuel Ting and worked on the [Alpha Magnetic Spectrometer](https://ams02.space/) (AMS) aboard the International Space Station. 
+Previously, I was a key member of [Professor Samuel Ting'group at MIT](https://web.mit.edu/lns/research/emi.html) and worked on the [Alpha Magnetic Spectrometer](https://ams02.space/) (AMS) aboard the International Space Station. 
 
 ## News
 
