@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Teaching"
-permalink: /teaching/
+title: "Research"
+permalink: /research/
 author_profile: true
 redirect_from:
 ---
 
 {% include base_path %}
 
-## 8.02 Fall 2023 Electricity and Magnetism 
-* Undergraduate course at MIT 
+## JUNO
+![June 2023](../images/juno0.png) 
 
