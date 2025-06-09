@@ -8,5 +8,5 @@ redirect_from:
 
 {% include base_path %}
 
-## JUNO (developing....)
-![Figure caption](../images/helium0.png){: style="width:500px" }
+## JUNO (developing.....)
+![Figure caption](../images/juno0.png){: style="width:200px" }
