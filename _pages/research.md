@@ -15,12 +15,12 @@ redirect_from:
 
 * Introduction
 
-<img src="../images/juno1.png" alt="Figure caption" style="width:500px;" />
+<img src="../images/juno1.png" alt="Figure caption" style="width:600px;" />
 
 * Study of Supernova in the Era of Multi-Messenger Astronomy
 
-<img src="../images/juno2.png" alt="Figure caption" style="width:500px;" />
+<img src="../images/juno2.png" alt="Figure caption" style="width:600px;" />
 
 * Diffuse Supernova Neutrino Background (or Supernova Relic Neutrinos)
 
-<img src="../images/juno3.png" alt="Figure caption" style="width:500px;" />
+<img src="../images/juno3.png" alt="Figure caption" style="width:600px;" />
