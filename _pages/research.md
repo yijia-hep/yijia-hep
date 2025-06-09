@@ -24,3 +24,7 @@ redirect_from:
 * Diffuse Supernova Neutrino Background (or Supernova Relic Neutrinos)
 
 <img src="../images/juno3.png" alt="Figure caption" style="width:600px;" />
+
+## Alpha Magnetic Spectrometer
+
+<img src="../images/ams.png" alt="Figure caption" style="width:600px;" />
