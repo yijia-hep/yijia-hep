@@ -9,5 +9,4 @@ redirect_from:
 {% include base_path %}
 
 ## JUNO
-![Figure caption](../images/juno0.png){: style="width:200px" } 
-
+<img src="../images/juno0.png" alt="Figure caption" style="width:200px;" />
