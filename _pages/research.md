@@ -13,3 +13,7 @@ redirect_from:
 <div style="text-align: center;">
   ![Figure caption](../images/juno0.png){: style="width:300px" }
 </div>
+
+<div style="text-align: center;">
+  <img src="../images/juno0.png" alt="Figure caption" style="width:300px;" />
+</div>
