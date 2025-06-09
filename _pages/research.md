@@ -16,3 +16,7 @@ redirect_from:
 * Introduction
 
 <img src="../images/juno1.png" alt="Figure caption" style="width:450px;" />
+
+* Study of Supernova in the Era of Multi-Messenger Astronomy
+
+<img src="../images/juno2.png" alt="Figure caption" style="width:450px;" />
