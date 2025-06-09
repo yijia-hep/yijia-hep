@@ -9,5 +9,5 @@ redirect_from:
 {% include base_path %}
 
 ## JUNO
-![June 2023](../images/juno0.png) 
+![Figure caption](../images/juno0.png){: style="width:200px" } 
 
