@@ -11,4 +11,3 @@ redirect_from:
 ## 8.02 Fall 2023 Electricity and Magnetism 
 * Undergraduate course at MIT 
 
-![Figure caption](../images/TEAL.png)
