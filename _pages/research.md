@@ -20,3 +20,7 @@ redirect_from:
 * Study of Supernova in the Era of Multi-Messenger Astronomy
 
 <img src="../images/juno2.png" alt="Figure caption" style="width:500px;" />
+
+* Diffuse Supernova Neutrino Background (or Supernova Relic Neutrinos)
+
+<img src="../images/juno3.png" alt="Figure caption" style="width:500px;" />
